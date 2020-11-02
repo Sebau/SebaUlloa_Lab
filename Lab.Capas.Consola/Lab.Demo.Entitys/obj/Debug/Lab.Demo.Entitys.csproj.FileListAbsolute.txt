@@ -1,0 +1,12 @@
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\Lab.Demo.Entitys.dll.config
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\Lab.Demo.Entitys.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\Lab.Demo.Entitys.pdb
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\EntityFramework.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\EntityFramework.xml
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\obj\Debug\Lab.Demo.Entitys.csprojAssemblyReference.cache
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\obj\Debug\Lab.Demo.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\obj\Debug\Lab.Demo.Entitys.csproj.CopyComplete
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\obj\Debug\Lab.Demo.Entitys.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.Entitys\obj\Debug\Lab.Demo.Entitys.pdb

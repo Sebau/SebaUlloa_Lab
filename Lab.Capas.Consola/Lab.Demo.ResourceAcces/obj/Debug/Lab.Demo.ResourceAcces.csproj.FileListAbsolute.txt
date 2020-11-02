@@ -1,0 +1,15 @@
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.ResourceAcces.dll.config
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.ResourceAcces.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.ResourceAcces.pdb
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\EntityFramework.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.Entitys.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.Entitys.pdb
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\Lab.Demo.Entitys.dll.config
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\EntityFramework.xml
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\obj\Debug\Lab.Demo.ResourceAcces.csprojAssemblyReference.cache
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\obj\Debug\Lab.Demo.ResourceAcces.csproj.CoreCompileInputs.cache
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\obj\Debug\Lab.Demo.ResourceAcces.csproj.CopyComplete
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\obj\Debug\Lab.Demo.ResourceAcces.dll
+C:\Users\Sebita\Desktop\Sebita_LAB\Lab.Capas.Consola\Lab.Demo.ResourceAcces\obj\Debug\Lab.Demo.ResourceAcces.pdb
