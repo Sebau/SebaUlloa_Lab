@@ -1,0 +1,113 @@
+<html>
+      <head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="../Practica_HTML+CSS+JQUREY/jquery/funcionesjquery.js"></script>
+		<!--no funciono el link no se porque
+		<link rel=”stylesheet” href="../css/estilos.css" type="text/css">-->
+		<style type="text/css">
+			body{
+				  background-color: rgb(138, 120, 155);
+				  font-size: medium;
+				}
+			html{
+				font-style: oblique;
+			}
+			table{
+				border-color: azure;
+				border-style: solid;
+				background-color: azure;
+			}	
+		</style>
+			        <font> <h1> FORMULARIO DE CONTACTO </h1> </font>
+			<meta charset="utf-8">
+			<script>
+					function mayuscula(letra) {
+						letra.value = letra.value.toUpperCase();	
+					}
+                        function Enviar(){
+                        nom = document.frmInscri.nombre.value
+                        ape = document.frmInscri.apellido.value
+                        dia = parseInt(document.frmInscri.dia.value)
+                        mes = parseInt(document.frmInscri.mes.value)
+                        anio= parseInt(document.frmInscri.anio.value)
+                        correo= document.frmInscri.Mail.value
+                        arroba= correo.indexOf("@")
+                        punto = correo.indexOf(".")
+                        a=0
+					
+						
+						if  (nom == "" || ape == "" || dia == "" || mes == "" || anio == "" || correo == ""){
+						alert ("Complete Todos Sus Datos Personales Por Favor")
+						
+						a= a +1
+						}
+						
+						for (var i=0;i<correo.length;i++){
+							if (arroba == -1){
+								 alert (" El mail no posee @ en su dirrecion" )
+								 }
+								if 	(arroba != correo.lastIndexOf("@")){
+											alert ("El mail debe poseer un solo @")
+										}
+								if (punto == -1){
+								 alert (" Ingrese . despues del @ Ej: @hotmail.com" )
+								 } 
+								 
+								
+						}
+						a= a + 1
+						if (a=2){
+						
+							frmInscri.submit()
+						}
+						}
+		    </script>
+	  </head>
+	  <body>
+		<table border="1">
+		 <tr>	
+            <form action="mailto:abvarmstrong@celar.com" method="post" enctype="text/plain" name="frmInscri">
+                <tr>
+                    Informacion Personal:
+                </tr>
+			<td>
+				Nombre: <input type="text" name="nombre" size="30" maxlenght="40" onkeyup="mayuscula(this);" placeholder="Nombre">
+			</td>
+			<td>
+				Apellido: <input type="text" name="apellido" size="30" maxlenght="40" onkeyup="mayuscula(this);" placeholder="Apellido">
+			</td>
+		 </tr>
+         <tr>		 
+			<td>	
+				Fecha de Nacimiento: <input type="number" name="dia" colspan= "2" min="1" max="31" value="" placeholder="Dia"> / <input type="number" name="mes" colspan= "2" min="1" max="2" min="1" max="12" value="" placeholder="Mes"> / <input type="number" name="anio" colspan= "2" min="1" max="2" min="1990" max="2002" value="" placeholder="Año">
+			</td>	
+			<td>	
+				Sexo: <input type="radio" name="sexo" value="Hombre"checked> Hombre
+                      <input type="radio" name="sexo" value="Mujer"         > Mujer
+                      <input type="radio" name="sexo" value="Otro"         > Otro
+			</td>
+         </tr>
+		 <tr>
+			<td>
+         		Telefono de contacto: <input type="text" name="Carac" size="2" maxlenght="5" placeholder="03471"> - <input type="text" name="Tel" size="4" maxlenght="9" placeholder="1551115">
+			</td>
+			<td>
+				E-Mail: <input type="text" name="Mail" size="30" maxlenght="100" placeholder="correo@correo.com">
+			</td>
+		 </tr>	
+		 <tr id="trEmpresa"> 
+            <td colspan= "2">
+                Informacion Adicional:<br>
+			   <textarea cols="120" rows="10" name="respuesta"></textarea>
+			</td>
+		 </tr>
+		 <tr>
+			<td colspan= "4" align="center">
+				<input type="button" value="Enviar Inscripcion" onclick="Enviar()">
+				<input id="reset" type="button" value="Borrar Todo">
+			</td>
+		 </tr>	
+			</form>
+		 </tr>	
+		</table>
+	  </body>
